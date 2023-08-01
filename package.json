@@ -1,0 +1,30 @@
+{
+  "name": "discord-dev-desktop",
+  "version": "1.0.0",
+  "description": "A desktop version of the Discord Developers page using Electron.",
+  "main": "main.js",
+  "scripts": {
+    "test": "electron .",
+    "start": "electron .",
+    "build": "electron-builder"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NoodleDX/discord-dev-desktop.git"
+  },
+  "keywords": [
+    "discord",
+    "electron",
+    "desktop",
+    "developers"
+  ],
+  "author": "NoodleDX",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NoodleDX/discord-dev-desktop/issues"
+  },
+  "homepage": "https://github.com/NoodleDX/discord-dev-desktop#readme",
+  "devDependencies": {
+    "electron": "^25.3.2"
+  }
+}

@@ -1,0 +1,6 @@
+appId: com.noodledx.discord-dev-desktop
+productName: Discord Developers
+directories:
+  output: dist
+win:
+  target: nsis
