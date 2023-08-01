@@ -10,6 +10,10 @@ like
 
 legally
 
+## Also
+the node_modules folder was too big to upload and I didn't want to deal with Git LFS so I just didn't include it, cry about it
+just use `npm install electron` and `npm install -g electron-builder`(electron-builder is only to build it, but why would you download it if youre not going to build it)
+
 ## Disclaimer
 uhhh idk smth along the lines of
 This is purely for personal gain, I just wanted to A) use it because why not and B) learn how to use Electron and Node.js.
